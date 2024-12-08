@@ -1,0 +1,29 @@
+                                                                                                                                                                                                                                                                                                                                                          {
+  "project_info": {
+    "project_number": "1013406956900",
+    "project_id": "uber-b922a",
+    "storage_bucket": "uber-b922a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013406956900:android:5bed41776390b91cf04e71",
+        "android_client_info": {
+          "package_name": "com.example.usersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-I9M5O4YdCPT7WbrZjgrIKHv9yoZ3KsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
